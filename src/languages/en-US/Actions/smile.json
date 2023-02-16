@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Bir kullanıcı için gülümse.",
+    "USAGE": "gülümse [user]",
+    "USAGEE": "gülümse [user]",
+    "SORRIR_DESCRIÇÃO": "<@{{author}}> gülümsüyor!",  
+    "SORRIR_DESCRIÇÃO1": "<@{{author}}> gülümse!",    
+    "SORRIR_DESCRIÇÃO2": "bir gülümseme geri veririm", 
+    "SORRIR_DESCRIÇÃO3": "gülümse"
+}

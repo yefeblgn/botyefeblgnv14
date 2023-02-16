@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "bir kullanıcıyı dürtersin.",
+    "USAGE": "dürt <user>",
+    "USAGEE": "dürt <user>",
+    "CUTUCAR_DESCRIÇÃO": "\\❌ **<@{{author}}>**, kimi dürtmeliyim?",  
+    "CUTUCAR_DESCRIÇÃO1": "Zaten buradayım! Bir şeye ihtiyacın var mı?",
+    "CUTUCAR_DESCRIÇÃO2": "\\❌ bunu yapmayacağım, **<@{{author}}>**!",   
+    "CUTUCAR_DESCRIÇÃO3": "dürttü"
+}

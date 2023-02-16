@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Özel biriyle el ele tutuşun.",
+    "USAGE": "elele <user>",
+    "USAGEE": "elele <user>",
+    "MAOS_DESCRIÇÃO": "\\❌ **<@{{author}}>**, kimin elini tutmak istersin?",  
+    "MAOS_DESCRIÇÃO1": "ellerini tutuyor",
+    "MAOS_DESCRIÇÃO2": "\\❌ **<@{{author}}>**, kimin elini tutmak istediğini söylemelisin"
+}

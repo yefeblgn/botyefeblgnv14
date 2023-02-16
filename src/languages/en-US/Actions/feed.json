@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Bahsettiğiniz kullanıcı(lar) ile bir şeyler yiyin!",
+    "USAGE": "ye [user]",
+    "USAGEE": "ye [user]",
+    "COMER_DESCRIÇÃO": "<@{{member}}> tek başına mı yiyeceksin?!",
+    "COMER_Hope": " **beh**",
+    "COMER_DESCRIÇÃO1": "ile yemek yiyor",
+    "COMER_DESCRIÇÃO2": "beni besledi",    
+    "COMER_HopeFRASE": "Nyaa~ s-senpai... (´Å'∗)...",
+    "COMER_HopeFRASE1": "Benden beslenme! sana hiç resim göstermeyeceğim!",
+    "COMER_APIOFF": "hmmm, api çalışmıyor, üzgünüm!",
+    "COMER_DESC": " ve ",
+    "COMER_DESC1": ", ve "
+}

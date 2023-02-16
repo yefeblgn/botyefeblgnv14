@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Birisi için el salla.",
+    "USAGE": "elsalla [user]",
+    "USAGEE": "elsalla [user]",
+    "ACENAR_DESCRIÇÃO1": "<@{{author}}> el salladı!",
+    "ACENAR_DESCRIÇÃO2": "<@{{user}}> geri el salladı",
+    "ACENAR_DESCRIÇÃO3": " el salladı "
+}

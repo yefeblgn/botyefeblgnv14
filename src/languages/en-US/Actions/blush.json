@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Bir utanç/kızarıklık ifade edin.",
+    "USAGE": "utan [user]",
+    "USAGEE": "utan [user]",
+    "VERGONHA_DESCRIÇÃO": "<@{{author}}> utanıyor",  
+    "VERGONHA_DESCRIÇÃO1": "utanıyor"
+}

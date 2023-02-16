@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Kullanıyı tokatlarsın.",
+    "USAGE": "tokatla [user]",
+    "USAGEE": "tokatla [user]",
+    "TAPA_DESCRIÇÃO": "<@{{member}}>, Lütfen kendine vurma!",  
+    "TAPA_DESCRIÇÃO1": "**ben**",
+    "TAPA_DESCRIÇÃO2": "tokatlandı",
+    "TAPA_HopeFRASE": "(；︿ ；✿) Ü-Üzgünüm. Onlara tokat atabilirsin ama lütfen bana vurma...",      
+    "TAPA_DESC": " ve ",
+    "TAPA_DESC1": ", ve ",    
+    "TAPA_DESC2": "ben"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Bahsedilen kullanıcıyı gıdıklayın.",
+    "USAGE": "gıdıkla [user]",
+    "USAGEE": "gıdıkla [user]",
+    "COCEGAS_DESCRIÇÃO": "Dur <@{{author}}>! A-Ayh~",  
+    "COCEGAS_DESCRIÇÃO1": "\\❌ kendini gıdıklamakta iyi eğlenceler **<@{{author}}>**!",
+    "COCEGAS_DESCRIÇÃO2": "gıdıklıyo"
+}

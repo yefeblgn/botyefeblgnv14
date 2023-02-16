@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "İkna olmak için bir tepki oluşturun.",
+    "USAGE": "iknaol",
+    "USAGEE": "iknaol",
+    "CONVENCIDO_DESCRIÇÃO": "<@{{member}}> ikna oldu."
+}

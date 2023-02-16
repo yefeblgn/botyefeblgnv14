@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Kullanıcıyı uyutur.",
+    "USAGE": "uyut [user]",
+    "USAGEE": "uyut [user]",
+    "DORMIR_DESCRIÇÃO": "<@{{author}}> uyuyakaldı!",  
+    "DORMIR_DESCRIÇÃO1": "ile uykuya daldı",
+    "DORMIR_DESCRIÇÃO2": "<@{{author}}>, uykulu değilim...."
+}

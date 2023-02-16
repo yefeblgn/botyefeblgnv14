@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Bahsettiğiniz kullanıcıyı yalayın!",
+    "USAGE": "yala [user]",
+    "USAGEE": "yala [user]",
+    "LAMBER_DESCRIÇÃO": "<@{{member}}> kendini mi yalayacaksın?!",  
+    "LAMBER_DESCRIÇÃO1": "Ben",
+    "LAMBER_DESCRIÇÃO2": "yaladı",
+    "LAMBER_DESCRIÇÃO3": "Nyaa..♡(｡￫ˇ艸￩) neredesin... beni yalıyorsun...",    
+    "LAMBER_DESCRIÇÃO4": "yaladı",  
+    "LAMBER_DESC": " ve ",
+    "LAMBER_DESC1": ", ve "
+}

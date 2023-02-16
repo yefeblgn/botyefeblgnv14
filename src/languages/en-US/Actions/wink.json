@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Bir kullanıcı için göz kırparsın.",
+    "USAGE": "gözkırp <user>",
+    "USAGEE": "gözkırp <user>",
+    "PISCAR_DESCRIÇÃO": "<@{{author}}> göz kırptı!", 
+    "PISCAR_DESCRIÇÃO1": "göz kırpıyor"
+}
